@@ -63,8 +63,6 @@ body:before {
 .gridFlex{
 	text-align: left;
 	border-style: outset inset inset outset;
-	transition: 5s;
-	transition-timing-function: ease-in;
 }
 #JSobj{
 	color: #333;
@@ -79,6 +77,13 @@ i{
 	margin: 2px;
 }
 
+.progress{
+	margin-bottom: 1%;
+}
+
+.progress-bar{
+	background-color: #00ab44;
+}
 
 hr.style-two {
     border: 0;
