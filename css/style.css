@@ -63,6 +63,12 @@ body:before {
 .gridFlex{
 	text-align: left;
 	border-style: outset inset inset outset;
+	transition: 5s;
+	transition-timing-function: ease-in;
+}
+#JSobj{
+	color: #333;
+	font-size: 200%;
 }
 .icon-bar{
 	text-align:right;
@@ -70,11 +76,9 @@ body:before {
 i{
 	color: #00ab44;
 	font-size: 150%;
+	margin: 2px;
 }
-#JSobj{
-	color: #333;
-	font-size: 200%;
-}
+
 
 hr.style-two {
     border: 0;
