@@ -1,7 +1,7 @@
 function getAbout(){
     document.getElementById("JSobj").innerHTML=(
-    '<p>The part where I would actually talk about me.</p>'+
-    '<p>Some of my hobbies</p>'+
+    '<p>[Text Placeholder]</p>'+
+    '<p>[Text Placeholder]</p>'+
     '<ul class="icon-bar">'+
     '<a class="icon" href=""><i class="fab fa-github"></i></a>'+
     '<a class="icon" href=""><i class="fab fa-linkedin"></i></a>'+
@@ -9,11 +9,11 @@ function getAbout(){
     '</ul>');
 }
 function getHtmlCss(){
-    document.getElementById("JSobj").innerHTML="Solid foundation and understanding of HTML and CSS.";
+    document.getElementById("JSobj").innerHTML=('[Text Placeholder]');
 }
 function getJS(){
-    document.getElementById("JSobj").innerHTML=("Solid foundation with Javascript and fluent understanding of Object Orientated Programming.");
+    document.getElementById("JSobj").innerHTML=('[Text Placeholder]');
 }
 function getUX(){
-    document.getElementById("JSobj").innerHTML="Talentful Eye for the minute design of proper UX design.";
+    document.getElementById("JSobj").innerHTML=('[Text Placeholder]');
 }
