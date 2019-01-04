@@ -51,7 +51,7 @@ body:before {
 	margin: 4px 2px;
 	cursor: pointer;
 	transition: .2s;
-	font-family: 'Playfair Display', serif;
+	font-family: 'Comfortaa', cursive;
 
 }
 .btn:hover{
@@ -69,10 +69,11 @@ body:before {
 .gridFlex{
 	text-align: left;
 	border-style: outset inset inset outset;
+	font-family: 'Comfortaa', cursive;
 }
 #JSobj{
 	color: #333;
-	font-size: 200%;
+	font-size: 120%;
 }
 .icon-bar{
 	text-align:right;
