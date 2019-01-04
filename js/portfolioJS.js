@@ -21,9 +21,6 @@ function getHtmlCss(){
 '</div>'+
 '<div class="progress">'+
 '<div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" style="width: 70%" aria-valuenow="70" aria-valuemin="0" aria-valuemax="70">Python</div>'+
-'</div>'+
-'<div class="progress">'+
-'<div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" style="width: 40%" aria-valuenow="40" aria-valuemin="0" aria-valuemax="40">UX</div>'+
 '</div>');
 }
 function getJS(){
