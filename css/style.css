@@ -3,11 +3,14 @@ JavaScript: #f7df1e
 HTML: #e34f26
 CSS: #0170BA 
 
-#00ab44
+green : #00ab44
+black : #222
+white : #f2f2f2
 
 */
 body{
-	background-color: #f2f2f2;
+	background-color: #222;
+
 }
 body:before {
 	content: "";
@@ -39,10 +42,8 @@ body:before {
 	text-align: center;
 }
 .btn {
-	background-color: #f2f2f2;
-	border: solid;
-	border-color: #00ab44;
-	color: #333;;
+	background-color: #222;
+	color: #f2f2f2;
 	padding: 1rem 2rem;
 	text-align: center;
 	text-decoration: none;
@@ -55,9 +56,9 @@ body:before {
 
 }
 .btn:hover{
-	background-color: #00ab44;
-	border-color: #f2f2f2;
-	color: #f2f2f2;
+	background-color: #222;
+	border-color: #222;
+	color: #00ab44;
 }
 
 .gridMod {
@@ -68,11 +69,11 @@ body:before {
   }
 .gridFlex{
 	text-align: left;
-	border-style: outset inset inset outset;
+	
 	font-family: 'Comfortaa', cursive;
 }
 #JSobj{
-	color: #333;
+	color: #f2f2f2;
 	font-size: 120%;
 }
 .icon-bar{
