@@ -105,14 +105,14 @@ hr.style-two {
 .projects{
 	text-align: center;
 }
-.rps{	
+.project{	
 	padding: 20px;
 	color: #f2f2f2;
 }
-.rps:hover{
+.project:hover{
 	color: #f2f2f2
 }
-.rps:active{
+.project:active{
 	color: #00ab44;
 }
 h3{
